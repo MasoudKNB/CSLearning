@@ -1,0 +1,17 @@
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\bin\Debug\net8.0-windows\SayHello.exe
+C:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\bin\Debug\net8.0-windows\SayHello.deps.json
+C:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\bin\Debug\net8.0-windows\SayHello.runtimeconfig.json
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\bin\Debug\net8.0-windows\SayHello.dll
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\bin\Debug\net8.0-windows\SayHello.pdb
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.Form1.resources
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.csproj.GenerateResource.cache
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.AssemblyInfoInputs.cache
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.AssemblyInfo.cs
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.csproj.CoreCompileInputs.cache
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.sourcelink.json
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.dll
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\refint\SayHello.dll
+c:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.pdb
+C:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\SayHello.genruntimeconfig.cache
+C:\Users\Masoud\Documents\CSLearning\CSLearning\Exercise1\SayHello\SayHello\obj\Debug\net8.0-windows\ref\SayHello.dll
